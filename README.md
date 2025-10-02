@@ -106,8 +106,10 @@ Kaggle: https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
 ├── climate-change-analysis.ipynb   # Full EDA narrative and plots
 ├── climate_change_dataset.csv      # Source dataset (raw)
 ├── Climate_Change_Analysis.twbx    # Tableau packaged workbook (dashboard)
+├── image.png                       # Dashboard snapshot (inline reference)
+├── Video_Presentation.mp4          # Walkthrough / presentation recording
 ├── LICENSE                        # MIT license
-└── README.md                      # Project documentation
+└── READM
 ```
 
 > (Optional future additions): `requirements.txt`, `data/processed/cleaned_climate_change.csv`, `forecast/temperature_projection.csv`.
