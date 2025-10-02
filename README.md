@@ -41,7 +41,8 @@ The analysis follows a SMART objective framework and answers nine targeted domai
 Interactive Tableau Dashboard (multi‑panel KPIs, trend lines, comparative distributions):
 👉 https://prod-in-a.online.tableau.com/t/climate_change_analysis_dashboard/views/Climate_Change_Analysis/Dashboard1
 
-> If access is restricted, request viewer rights or export static snapshots from Tableau for archival reporting.
+> static snapshots.
+![alt text](image.png)
 
 ---
 
