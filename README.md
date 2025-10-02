@@ -71,8 +71,6 @@ Kaggle: https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
 ---
 
 ## 🧭 Analytical Workflow
-<details>
-<summary><strong>Click to expand full pipeline</strong></summary>
 
 | Phase | Activities | Outputs |
 |-------|-----------|---------|
@@ -100,20 +98,6 @@ Kaggle: https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
 7. 👥 **Population Coupling:** Weak direct correlations; mediated pathways (consumption intensity, energy mix) more explanatory.  
 
 > For a fuller narrative, see the Conclusion section within the notebook.
-
----
-
-## 🔮 Temperature Projection Scaffold
-Current notebook lays conceptual groundwork (yearly aggregation + regression framing). To elevate this:
-| Enhancement | Option |
-|-------------|--------|
-| Baseline Model | OLS linear trend (implemented) |
-| Confidence Bands | 95% interval using prediction variance |
-| Alternative | LOWESS smoothing or ARIMA seasonal check |
-| Validation | Train/test temporal split (e.g., pre/post 2015) |
-| Accuracy Metric | MAE + MAPE (goal: ≥85% directional reliability) |
-
-Future PR will include forecast reproducibility block + exported forecast CSV.
 
 ---
 
