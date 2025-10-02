@@ -187,18 +187,6 @@ Workflow:
 
 ---
 
-## 🗺 Roadmap
-| Milestone | Status | Notes |
-|-----------|--------|-------|
-| Baseline EDA + Dashboard | ✅ | Complete |
-| Temperature Projection Code | ⏳ | To add OLS block output | 
-| Confidence Intervals & MAE | ⏳ | Requires validation split |
-| Geospatial Expansion | Planned | Country-level chloropleths |
-| Automated Data Pipeline | Planned | CI ingest + delta checks |
-| Policy Scenario Modeling | Ideation | Emissions reduction simulation |
-
----
-
 ## 📄 License
 Released under the **MIT License**. See `LICENSE` for full text.
 
@@ -216,17 +204,6 @@ If you reference this analysis:
 ```
 Rizwan, M. (2025). Climate Change Multi-Factor Exploratory Analysis & Dashboard. GitHub Repository.
 ```
-
----
-
-## 💡 Next Opportunities
-| Idea | Impact | Effort |
-|------|--------|--------|
-| Integrate anomaly detection on Extreme Events | High | Medium |
-| Merge external ENSO / NAO indices | High | Medium |
-| Add renewable capacity growth rate derivation | Medium | Low |
-| Automate nightly data refresh | Medium | Medium |
-| Embed lightweight web app (Streamlit) | Medium | Medium |
 
 ---
 
